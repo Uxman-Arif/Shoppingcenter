@@ -1,0 +1,156 @@
+.navbar{
+    position: sticky;
+}
+
+.hd{
+    line-height: 35px;
+    font-size: 65px;
+    font-family: cursive;
+    color: gold;
+    font-weight: bold;
+}
+
+#logo-text{
+    font-size: 20px;
+    color: #d87c12;
+}
+
+.navbar-nav{
+    font-family: cursive;
+}
+
+.inputs{
+    background-color: black;
+    color: white;
+    border: 2px solid gold;
+    border-radius: 30px;
+    width: 100px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    border : 2px double white;
+    border-radius: 20px;
+}
+
+.btn-group{
+    width: 300px;
+}
+
+.btnserach{
+    width: 20px;
+    background-color: gold;
+}
+
+.top-row{
+    background: url('pexels-kritsada-seekham-7836295.jpg') no-repeat;
+}
+
+.top-rowheader{
+    color: gold;
+    font-family: cursive;
+    font-weight: bold;
+    margin-top: 50px;
+    line-height: 18px;
+    font-size: 50px;
+    user-select: none;
+}
+
+.top-row span{
+    font-family: cursive;
+    user-select: none;
+}
+
+.top-row p{
+   color: white;
+   margin-top: 20px;
+   color: #d87c12;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   margin-bottom: 50px;
+   text-shadow: 0.5px 1px  white;
+
+}
+
+.spanofp{
+    /* background-color: gold; */
+    font-family: cursive;
+    border-radius: 5px;
+    text-shadow: 2px 2px 2px gold;
+}
+
+.btnoffer{
+    background-color: gold;
+    font-family: cursive;
+}
+
+.offerhead{
+    font-family: cursive;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px gold;
+    
+}
+
+.offerheads{
+    font-family: cursive;
+    font-weight: bold;
+    text-shadow: 2px 2px 1px brown;
+
+    
+}
+
+.deals{
+    color: gold;
+    text-shadow: 1px 1px 2px black;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.February{
+    width: 80%;
+}
+
+.March{
+    width: 90%;
+}
+
+.April{
+    width: 95%;
+}
+
+.May{
+    width: 93%;
+}
+
+.June{
+    width: 96%;
+}
+
+.followbtns{
+    font-size:30px;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    user-select: none;
+}
+
+.dealss{
+    color: gold;
+    text-shadow: 2px 2px 2px brown;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+footer{
+    color: grey;
+}
